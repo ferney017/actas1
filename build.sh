@@ -1,4 +1,4 @@
-set -o errexist
+set -e
 
 pip install -r requirements.txt
 
